@@ -1,0 +1,35 @@
+# Wargaming main
+0.0.0.0 wargaming.net
+0.0.0.0 www.wargaming.net
+
+# Game portals
+0.0.0.0 worldoftanks.com
+0.0.0.0 www.worldoftanks.com
+0.0.0.0 worldofwarships.com
+0.0.0.0 www.worldofwarships.com
+0.0.0.0 wotblitz.com
+0.0.0.0 na.wotblitz.com
+0.0.0.0 eu.wotblitz.com
+0.0.0.0 asia.wotblitz.com
+
+# Game login servers
+0.0.0.0 wotna3.login.wargaming.net
+0.0.0.0 wotna4.login.wargaming.net
+0.0.0.0 login.p1.worldoftanks.eu
+0.0.0.0 login.p2.worldoftanks.eu
+0.0.0.0 login.p3.worldoftanks.eu
+0.0.0.0 login.p4.worldoftanks.eu
+
+# API & widget services
+0.0.0.0 api.worldoftanks.com
+0.0.0.0 api.worldofwarships.com
+0.0.0.0 api.wotblitz.com
+0.0.0.0 ccw-center.wargaming.net
+
+# Other regional mirrors
+0.0.0.0 worldoftanks.eu
+0.0.0.0 worldoftanks.asia
+0.0.0.0 worldoftanks.ru
+0.0.0.0 worldofwarships.eu
+0.0.0.0 worldofwarships.asia
+0.0.0.0 worldofwarships.ru
